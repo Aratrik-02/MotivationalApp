@@ -1,20 +1,9 @@
-Affirmations App - Starter Code
+Motivational app 
 ================================
-
-Starter code for the Android Basics with Compose: Affirmations app.
-
 
 Introduction
 ------------
-The Affirmations app contains a scrollable list of 10 cards.
-
-
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
-
+The Motivation app contains a scrollable list of 10 cards.
 
 Getting Started
 ---------------
